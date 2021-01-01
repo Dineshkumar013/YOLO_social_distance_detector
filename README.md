@@ -1,6 +1,8 @@
 # YOLO_social_distance_detector
  I am well aware that this project is not perfect so these are a few ideas how this application be improved :  Using a faster model in order to perform real-time social distancing analysis. Use a model more robust to occlusions. 
-
+ 
+ ![my_output](https://user-images.githubusercontent.com/60866104/103439505-90d0ac00-4c63-11eb-9443-6e825a8685a4.gif)
+ 
 
 # Steps
 
@@ -17,4 +19,13 @@
 
 
 **Step 5: Find the distance between, the center point of one person to another person in meters.**
+# ![01](https://user-images.githubusercontent.com/60866104/103439511-9928e700-4c63-11eb-821b-8066bbff2bdd.PNG)
+
+![02](https://user-images.githubusercontent.com/60866104/103439513-9a5a1400-4c63-11eb-92a7-98efbb8a10da.PNG)
+
+
+
+
+
+
 
